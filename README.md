@@ -1,0 +1,1 @@
+# Unofficial API for bazar.lowcygier.pl
