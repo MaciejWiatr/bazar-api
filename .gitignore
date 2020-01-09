@@ -1,5 +1,4 @@
 __pycache__/
 error.log
 wsgi.py
-bazar.py
 req.py
