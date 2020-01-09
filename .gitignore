@@ -1,0 +1,5 @@
+__pycache__/
+error.log
+req.py
+wsgi.py
+bazar.py 
